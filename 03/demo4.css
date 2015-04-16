@@ -1,0 +1,31 @@
+a:link {
+	color:red;
+	font-size: 24px ;
+	text-decoration:none;
+	font-family: "华文新魏";
+}
+a:hover {
+	color:blue;
+	text-decoration:underline;
+	font-size:40px;
+	font-family: "宋体" ;
+}
+a:visited {
+	color:gray;
+}
+.s1{
+	background-color: red ;
+	display:block;
+}
+.s2{
+	background-color: blue;
+	display:block;
+}
+.d1{
+	background-color: yellow;
+	display:inline
+}
+.s1,.s2,.d1{
+	width:80px;
+	height:40px;
+}
